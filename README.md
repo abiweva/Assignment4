@@ -22,12 +22,26 @@ Task will be to scrap all the related information about different cryptocurrenci
 ## Usage
 
 ``` bash 
+from datetime import datetime, timedelta
+from re import U, template
+from flask import Flask, request, render_template
+from flask.helpers import make_response
+import jwt
+from sqlalchemy.orm import session
+import tableforass4
 import requests
 from bs4 import BeautifulSoup
-import ArticleFinder
-from ArticleFinder import Finder
-f1 = Finder()
-soup = BeautifulSoup(req.content, 'html.parser')
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.dialects import postgresql
+from sqlalchemy.sql import text
+from sqlalchemy import create_engine
+
+
+app = tableforass4.app
+app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 ```
 
 ## Examples

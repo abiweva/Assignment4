@@ -1,0 +1,20 @@
+from datetime import datetime, timedelta
+from re import U, template
+from flask import Flask, request, render_template
+from flask.helpers import make_response
+import jwt
+from sqlalchemy.orm import session
+import tableforass4
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.dialects import postgresql
+from sqlalchemy.sql import text
+from sqlalchemy import create_engine
+
+
+app = tableforass4.app
+app.config['SECRET_KEY'] = 'thisismyflasksecretkey'

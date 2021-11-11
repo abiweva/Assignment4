@@ -46,26 +46,18 @@ app.config['SECRET_KEY'] = 'thisismyflasksecretkey'
 
 ## Examples
 
-By using the findArticle method, the f1 "Finder()" object and entering a cryptocurrency's name we are searching any cryptomarket articles in Alexandria catalogue.
+By running the regarding code, we will get the relevant link to the homepage with authorization. And after signing in we will have access to the bars which will provide the appropriate number of paragraphs by each typed coin name.
 
-C:\Users\Админ\Desktop\Новая папка>python parserForPythonAss.py
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAkQAg&usg=AOvVaw2DdkE5WjwFmiVWGHj_7c_2
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/categories/crypto-basics&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQ0gJ6BAgJEAQ&usg=AOvVaw12WqfGaotrJfq0gdyCiMMh
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/glossary&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQ0gJ6BAgJEAU&usg=AOvVaw1FiF3yIn-YrHAqO-kiU3F6
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/bitcoin-price-analysis-the-upcoming-bull-run-will-be-wilder-than-the-previous-one&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQ0gJ6BAgJEAY&usg=AOvVaw2AnuN0flRZ56cS3AqN3jA7
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/categories/how-to-guides&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQ0gJ6BAgJEAc&usg=AOvVaw17_-9CcPYJIES3jodEkKG5
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/about&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAgQAg&usg=AOvVaw3Oo4iWr9ed24qGDUs3kPB0
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/glossary&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAYQAg&usg=AOvVaw352xv2RMAub9Kx-kK0ziQs
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/categories/crypto-basics&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAcQAg&usg=AOvVaw0gv0SnZc0Qjd73UatvXDLi
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/how-to-live-on-bitcoin&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAoQAg&usg=AOvVaw3Jpow2Uh7tOMBKvTa03MWS
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/glossary/cryptocurrency&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAMQAg&usg=AOvVaw2DBNTLigCSXcnUlPmiilt5
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/coinmarketcap-daily-oct-5-bitcoin-to-50k&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAAQAg&usg=AOvVaw0WF-56vpsE5WUsX9cPSAsW
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/bitcoin-hits-50-000-for-first-time-in-a-month&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAQQAg&usg=AOvVaw2f_5C-QTQPSYFXTj9u8CPL
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/bitcoin-price-prediction&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAEQAg&usg=AOvVaw15JIKgz50TdCPFPvReHLXY
-https://www.google.com/url?q=https://coinmarketcap.com/alexandria/article/bitcoin-to-cross-55k-in-a-week&sa=U&ved=2ahUKEwi8mb7Dq8DzAhWmpYsKHQ2aDkEQFnoECAIQAg&usg=AOvVaw3J2Mxhu0HTt82Agv-uSI5V
+![image_2021-11-11_12-44-26](https://user-images.githubusercontent.com/93276431/141275318-761207b7-7b96-4226-8a13-51dec56560af.png)
+![image_2021-11-11_12-46-21](https://user-images.githubusercontent.com/93276431/141275308-d684e33c-5ff4-4d24-bc72-f690a8b9c8e3.png)
+![image_2021-11-11_12-44-45](https://user-images.githubusercontent.com/93276431/141275338-f20de9d0-8737-4ddb-8c71-aa5336e4930f.png)
+![image_2021-11-11_12-44-59 (1)](https://user-images.githubusercontent.com/93276431/141275343-d847a2e7-267e-4dc1-a405-b46c78e1e478.png)
 
-TOTAL AMOUNT OF sites: 14
+![image_2021-11-11_12-44-59 (1)](https://user-images.githubusercontent.com/93276431/141275223-8fdf8a12-17e9-4ed8-a0cc-6ffd7294c9b5.png)![image_2021-11-11_12-45-16](https://user-images.githubusercontent.com/93276431/141275326-6647932b-b809-45b6-a299-a37ec5b0becf.png)
+![image_2021-11-11_12-44-59](https://user-images.githubusercontent.com/93276431/141275349-2d997730-48a4-410f-80b9-dcb29bfa0590.png)
 
+
+![image_2021-11-11_12-45-45](https://user-images.githubusercontent.com/93276431/141275293-0861a650-4009-49d3-b2bc-856bffe477a4.png)
 
 
 ## API Documentation
